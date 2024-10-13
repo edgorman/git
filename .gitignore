@@ -1,8 +1,9 @@
 # Ignore everything
 *
 
-# But not these files...
+# but not these files...
 !.gitignore
+!README.md
 
 # or these directories...
 !.vscode/**
